@@ -1,1 +1,1 @@
-# Attendance-Management-Syatem
+# Attendance-Management-System
